@@ -12,8 +12,8 @@ Sou desenvolvedor em formação, focado em **desenvolvimento FullStack**, com in
 
 ### 🎓 Formação
 
-* 🎓 **[Análise e Desenvolvimento de Sistemas]**
-* 📚 **[Engenharia da Computação]**
+* 🎓 **[Análise e Desenvolvimento de Sistemas - 2024]**
+* 📚 **[Engenharia da Computação - cursando]**
 
 ### 📖 Atualmente
 
