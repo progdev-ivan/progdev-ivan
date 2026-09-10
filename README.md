@@ -1,16 +1,24 @@
-## Hi there 👋
+## 💻 Desenvolvedor FullStack
 
-<!--
-**progdev-ivan/progdev-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor em formação, focado em **desenvolvimento FullStack**, com interesse em criar aplicações web, APIs e soluções eficientes e ferramentas de IA.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend:** React, JavaScript, TypeScript
+* **Backend:** Node.js, Express, Fastify
+* **Banco de Dados:** PostgreSQL, SQL
+* **Estudando:** Java, Spring Boot e arquitetura de software
+* **Ferramentas:** Git, GitHub, VS Code, Codex
+
+### 🎓 Formação
+
+* 🎓 **[Análise e Desenvolvimento de Sistemas]**
+* 📚 **[Engenharia da Computação]**
+
+### 📖 Atualmente
+
+Aprofundando meus conhecimentos em desenvolvimento FullStack, IA, boas práticas, APIs, bancos de dados e arquitetura de software.
+
+### 🔗 Contato
+
+[LinkedIn](https://www.linkedin.com/in/ivan-n-leonardi/) • [GitHub](https://github.com/ivan-leonardi)
