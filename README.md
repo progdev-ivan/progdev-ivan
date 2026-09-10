@@ -1,6 +1,6 @@
 ## 💻 Desenvolvedor FullStack
 
-Sou desenvolvedor fullstack, focado em **desenvolvimento FullStack**, com interesse em criar aplicações web, APIs e soluções eficientes e ferramentas de IA.
+Sou desenvolvedor web, focado em **desenvolvimento FullStack**, com interesse em criar aplicações web, APIs e soluções eficientes e ferramentas de IA.
 
 ### 🛠️ Tecnologias
 
