@@ -21,7 +21,7 @@ Aprofundando meus conhecimentos em desenvolvimento FullStack, IA, boas práticas
 
 ### 🔗 Contato
 
-[LinkedIn](https://www.linkedin.com/in/ivan-n-leonardi/) • [GitHub](https://github.com/ivan-leonardi)
+[LinkedIn](https://www.linkedin.com/in/ivan-n-leonardi/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
