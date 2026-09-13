@@ -10,8 +10,8 @@
 
 ### 🎓 Formação
 
-* 🎓 **[Análise e Desenvolvimento de Sistemas - 2024]**
-* 📚 **[Engenharia da Computação - cursando]**
+* 🎓 **[Análise e Desenvolvimento de Sistemas - USF 2024]**
+* 📚 **[Engenharia da Computação - UNIVESP cursando]**
 
 ### 📖 Atualmente
 
